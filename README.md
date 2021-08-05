@@ -17,6 +17,8 @@
         
 # Usage:
      ./run.sh
+     or
+     bash run.sh or zsh run.sh
 
 # Features:
      1. SMS ANONYMOUSLY
