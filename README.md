@@ -45,4 +45,6 @@ https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
      If You Like This Tool then Kindly Give us a star. Thanks.....
      
 # Author:
-     twitter.com/whoami4041
+ a. https://www.facebook.com/pakhack01
+ 
+ b. https://instagram.com/invisibleclay100
