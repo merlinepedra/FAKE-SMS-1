@@ -16,9 +16,7 @@
         d) cd fake-sms then chmod +x run.sh
         
 # Usage:
-     ./run.sh
-     or
-     bash run.sh or zsh run.sh
+     Just Type:  bash run.sh
 
 # Features:
      1. SMS ANONYMOUSLY
